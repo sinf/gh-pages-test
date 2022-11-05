@@ -7,10 +7,11 @@
   width: 100%;
   width: calc(100% - 2em);
   max-width: 60em;
-  min-width: 620px;
+  min-width: 5em;
 }
 
 footer {
+  /* workaround to crappy hr.png hack */
   background-size: 100% auto;
 }
 
