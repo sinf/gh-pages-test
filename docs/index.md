@@ -4,5 +4,5 @@ text
 text  
 text  
 
-[Link to Page](/Page)
+[Link to Page](./Page)
 
