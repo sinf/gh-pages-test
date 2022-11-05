@@ -1,6 +1,8 @@
 lsi: false
 safe: true
-source: pages
+source: docs
+verbose: true
+show_dir_listing: true
 incremental: false
 highlighter: rouge
 gist:
