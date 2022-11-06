@@ -7,7 +7,6 @@ layout: default
 text text text  
 
 [Link to Page](./Page)
-[Link to one post]({% link _posts/2022-11-05-new-post.md %})
 [Link to one post](/_posts/2022-11-05-new-post.md)
 
 # Index of posts

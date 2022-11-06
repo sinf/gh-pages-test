@@ -10,7 +10,14 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-theme: jekyll-theme-tactile
 permalink: /:year/:month/:day/:title:output_ext
 baseurl: /gh-pages-test
-
+theme: jekyll-theme-tactile
+#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+#rlugins:
+#  - jekyll-paginate
+#  - jekyll-sitemap
+#  - jekyll-gist
+#  - jekyll-feed
+#  - jemoji
+#  - jekyll-include-cache
